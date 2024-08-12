@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\bin\Debug\TestSeferDetay.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\bin\Debug\TestSeferDetay.exe
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\bin\Debug\TestSeferDetay.pdb
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.exe
+C:\Users\iskit\Desktop\Udemy_Project\TestSeferDetay\TestSeferDetay\obj\Debug\TestSeferDetay.pdb
